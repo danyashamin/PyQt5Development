@@ -1,5 +1,4 @@
 import sys
-from unicodedata import name
 from PyQt5.QtWidgets import QWidget, QApplication
 from PyQt5.QtGui import QIcon
 
